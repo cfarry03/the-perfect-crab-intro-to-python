@@ -38,9 +38,8 @@ print("just_return_it(4) returns:")
 print(just_return_it(4))
 
 # @TASK: Run this program in the bottom terminal panel:
-#
-#   python 011_identity.py
-#
+ python 011_identity.py
+
 
 # If you don't see the terminal, watch this video:
 # https://vimeo.com/1061335416/4f5eb4a48f
